@@ -1,0 +1,232 @@
+[
+    {
+        "name": "Mortaja Del Crepúsculo",
+        "type": "Armadura",
+        "tc": "65",
+        "url": "https://d2mantix.com/static/diablo2img/invqlt.png",
+        "price": "5",
+        "id": "1",
+        "description": {
+            "Defensa": "361-467",
+            "Fuerza" : "77"
+        } 
+    },
+    {
+        "name": "Cuero De Vermis",
+        "type": "Armadura",
+        "tc": "66",
+        "url": "https://d2mantix.com/static/diablo2img/invlea.png",
+        "price": "4.5",
+        "id": "2",
+        "description": {
+            "Defensa": "364-470",
+            "Fuerza" : "84"
+        } 
+    },
+    {
+        "name": "Coraza De Arconte",
+        "type": "Armadura",
+        "tc": "75",
+        "url": "https://d2mantix.com/static/diablo2img/invltp.png",
+        "price": "10",
+        "id": "3",
+        "description": {
+            "Defensa": "410-525",
+            "Fuerza" : "103"
+        } 
+    },
+    {
+        "name": "Coraza De La Fragua Del Infierno",
+        "type": "Armadura",
+        "tc": "78",
+        "url": "https://d2mantix.com/static/diablo2img/invplt.png",
+        "price": "4",
+        "id": "4",
+        "description": {
+            "Defensa": "421-530",
+            "Fuerza" : "196"
+        } 
+    },
+    {
+        "name": "Coraza Lacada",
+        "type": "Armadura",
+        "tc": "84",
+        "url": "https://d2mantix.com/static/diablo2img/invgth.png",
+        "price": "4.3",
+        "id": "5",
+        "description": {
+            "Defensa": "433-541",
+            "Fuerza" : "208"
+        } 
+    },
+    {
+        "name": "La Armadura Sagrada",
+        "type": "Armadura",
+        "tc": "87",
+        "url": "https://d2mantix.com/static/diablo2img/invaar.png",
+        "price": "8",
+        "id": "6",
+        "description": {
+            "Defensa": "487-600",
+            "Fuerza" : "232"
+        } 
+    },
+    {
+        "name": "Lo",
+        "type": "Runa",
+        "tc": "59",
+        "url": "https://d2mantix.com/static/diablo2img/runeLo.png",
+        "price": "5",
+        "id": "7",
+        "description": {
+            "equipo": "5% a la Resistencia Máxima a los Rayos",
+            "armas": "20% Posibilidad de Azote Mortal"
+        } 
+    },
+    {
+        "name": "Ber",
+        "type": "Runa",
+        "tc": "63",
+        "url": "https://d2mantix.com/static/diablo2img/runeBer.png",
+        "price": "6",
+        "id": "8",
+        "description": {
+            "equipo": "Daño Reducido en 8%",
+            "armas": "20% Golpe Triturador"
+        } 
+    },
+    {
+        "name": "Jah",
+        "type": "Runa",
+        "tc": "65",
+        "url": "https://d2mantix.com/static/diablo2img/runeJah.png",
+        "price": "7",
+        "id": "9",
+        "description": {
+            "equipo":"Aumenta la Vida Máxima 5% ,+50 Vida (Escudo)",
+            "armas": "Ignorar Defensa del Objetivo"
+        } 
+    },
+    {
+        "name": "Sabiduria De Ondal",
+        "type": "Unico",
+        "tc": "81",
+        "url": "https://d2mantix.com/static/diablo2img/lazarusspire.JPG",
+        "price": "0.5",
+        "id": "10",
+        "description": {
+
+        } 
+    },
+    {
+        "name": "Ira Celeste",
+        "type": "Unico",
+        "tc": "75",
+        "url": "https://d2mantix.com/static/diablo2img/azurewrath(1).JPG",
+        "price": "2",
+        "id": "11",
+        "description": {
+
+        } 
+    },
+    {
+        "name": "Velo Del Ala Nocturna",
+        "type": "Unico",
+        "tc": "81",
+        "url": "https://d2mantix.com/static/diablo2img/nightwingsveil.JPG",
+        "price": "3",
+        "id": "12",
+        "description": {
+
+        } 
+    },
+    {
+        "name": "Aspecto De Trang-Oul",
+        "type": "Set",
+        "tc": "84",
+        "url": "https://d2mantix.com/static/diablo2img/trang-oulsguise.JPG",
+        "price": "1",
+        "id": "13",
+        "description": {
+
+        } 
+    },
+    {
+        "name": "Escamas De Trang-Oul",
+        "type": "Set",
+        "tc": "63",
+        "url": "https://d2mantix.com/static/diablo2img/trang-oulsscales.JPG",
+        "price": "3",
+        "id": "14",
+        "description": {
+
+        } 
+    },
+    {
+        "name": "Ala De Trang-Oul",
+        "type": "Set",
+        "tc": "51",
+        "url": "https://d2mantix.com/static/diablo2img/trang-oulswing.JPG",
+        "price": "0.5",
+        "id": "15",
+        "description": {
+
+        } 
+    },
+    {
+        "name": "Cincha De Trang-Oul",
+        "type": "Set",
+        "tc": "84",
+        "url": "https://d2mantix.com/static/diablo2img/trang-oulsgirth.JPG",
+        "price": "2",
+        "id": "16",
+        "description": {
+
+        } 
+    },
+    {
+        "name": "Garras De Trang-Oul",
+        "type": "Set",
+        "tc": "45",
+        "url": "https://d2mantix.com/static/diablo2img/trang-oulsclaws.JPG",
+        "price": "1",
+        "id": "17",
+        "description": {
+
+        } 
+    },
+    {
+        "name": "Fortuna De Gheed",
+        "type": "Hechizos Unicos",
+        "tc": "62",
+        "url": "https://d2mantix.com/static/diablo2img/largecharm01.JPG",
+        "price": "1",
+        "id": "18",
+        "description": {
+
+        } 
+    },
+    {
+        "name": "Annihilus",
+        "type": "Hechizos Unicos",
+        "tc": "70",
+        "url": "https://d2mantix.com/static/diablo2img/bluecharm.JPG",
+        "price": "9",
+        "id": "19",
+        "description": {
+
+        } 
+    },
+    {
+        "name": "Antorcha Del Fuego Del Inferno",
+        "type": "Hechizos Unicos",
+        "tc": "75",
+        "url": "https://d2mantix.com/static/diablo2img/antorcha.jpg",
+        "price": "5",
+        "id": "20",
+        "description": {
+
+        } 
+    }
+
+]

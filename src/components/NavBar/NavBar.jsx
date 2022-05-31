@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 
 
 
-const NavBar = () => {
+const NavBar = ({tittle}) => {
 
 
 
@@ -18,6 +18,7 @@ const NavBar = () => {
 
   useEffect(() => {
     obtenerDatos();
+    console.log(data)
   }, []);
 
 
@@ -25,9 +26,10 @@ const NavBar = () => {
   
   return (
     <>
-      <nav className="navbar navbar-expand-lg bg-black" >
+      <h1 className="text-center">{tittle}</h1>
+      <nav className="navbar navbar-expand-lg bg-black " >
             <div className="collapse navbar-collapse">
-                <ul className="navbar-nav me-auto mb-2 mb-lg-0 ms-auto">
+                <ul className="navbar-nav me-auto mb-2 mb-lg-0 ms-auto" >
                     {
                         data.map( item =>(
                             <li className="nav-item" key={item.id}>
